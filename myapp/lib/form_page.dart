@@ -98,7 +98,7 @@ class _FormPageState extends State<FormPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Student Form'),
+        title: const Text('Bio Data'),
       ),
       body: SingleChildScrollView(
         padding: const EdgeInsets.all(16),
